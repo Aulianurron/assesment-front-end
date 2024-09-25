@@ -1,0 +1,38 @@
+.img{
+    width: 20%;
+    height:250px;
+    margin-left:40px;
+}
+
+
+.paraghraf{
+    width: 75%;
+    margin-top:80%;
+}
+
+.container{
+    display: flex;
+
+}
+
+.container img{
+    max-width: 200px;
+    margin-right:20px;
+    justify-content: space-between;
+
+}
+.text-container{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+    
+}
+.text-container h2, .text-container p{
+margin: 0;
+padding:5px;
+
+}
+
+
+
+

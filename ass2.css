@@ -1,0 +1,58 @@
+html{
+    width:100% !important;
+    height: 100% !important;
+    margin:0px;
+    padding: 0px;
+
+}
+
+body{
+    width:100% !important;
+    height: 100% !important;
+    margin:0px;
+    padding: 0px;
+}
+
+.background{
+    background-color: white;
+}
+
+.bg{
+    background-color: #52b7a4;
+}
+
+.crew {
+    margin-top: 0px ;
+}
+
+
+.google-login{
+    width:200px;
+    height: 40px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    background-color: white;
+    border-radius: 5px;
+    color:#52b7a4 ;
+    border-color: #52b7a4;
+}
+
+.pass{
+    margin-left: 60%;
+    
+}
+
+.buy{
+    margin-right: 500px;
+    
+}
+
+.ticketed{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+
+
+
+
