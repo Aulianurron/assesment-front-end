@@ -1,0 +1,49 @@
+.fotoboneka{
+    height: 200px;
+    width: 250px;
+}
+
+
+.container{
+    margin-top: 50px;
+}
+
+.img{
+    margin-right: 5px;
+    border-radius: 10px;
+    
+}
+
+.btn-shop{
+    background-color: green;
+    border-radius:10px;
+    padding: 12px;
+    color: white;
+}
+
+.text {
+    float: left;
+    margin-left: 20px;
+}
+
+.new {
+    float: left;
+    margin-right: 50px;
+}
+
+.bahasa{
+    background-color: green;
+    border-radius:10px;
+    padding: 12px;
+    color: white;
+}
+
+
+.luggoh{
+    background-color: white;
+    border-radius: 10px;
+    padding: 12px;
+    color: grey;
+}
+
+

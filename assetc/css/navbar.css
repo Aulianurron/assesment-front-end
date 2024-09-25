@@ -1,0 +1,56 @@
+*{
+    margin:0% !important;
+}
+
+
+
+.no-margin{
+    margin:0%;
+    color: rgb(196, 255, 240);
+    font-weight: 300px;
+    
+}
+
+menu content{
+    color: aqua;
+}
+
+.navbar a{
+    margin-left: 80px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.link{
+    text-decoration:none;
+    color: rgba(46, 48, 170, 0.61);
+}
+
+.link:hover{
+    color:aqua;
+    transition: 0,3px;
+}
+
+ul li{
+    display: inline;
+
+}
+
+li{
+    padding: 10px;
+    float: left;
+    font-family: "montserrat" , sans-serif;
+    font-optical-sizing:auto;
+    font-weight: 300px;
+    font-style:italic;
+
+}
+
+.container-fluid{
+    margin-left: 50px;
+}
+
+
+
+
