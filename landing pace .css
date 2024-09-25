@@ -1,0 +1,73 @@
+.ikon {
+  margin-left: 380px;
+}
+
+
+.hero-image {
+  width: 100% ;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: pink;
+}
+
+.icon{
+  margin-left: 10px;
+}
+
+.justy{
+  width: 10px;
+}
+
+.garis{
+  margin-left: 10px;
+}
+
+.hr-lines:before{
+  content:"";
+  display: block;
+  height: 2px;
+  width: 130px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  background-color: black;
+}
+
+.hr-lines{
+  position: relative;
+}
+.hr-lines{
+  position: relative;
+  max-width: 500px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.hr-lines:after{
+  content:"";
+  height: 2px;
+  width: 130px;
+  background: black;
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 0;
+}
+
+
+
+
+
+
+
